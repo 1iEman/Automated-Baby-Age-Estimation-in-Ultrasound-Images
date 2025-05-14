@@ -28,6 +28,7 @@ This simple project automates the estimation of a baby's gestational age based o
     Gestational Age Estimation:
 
         BPD values are matched against a medically referenced lookup table to determine the corresponding week of gestation.
+        Reference: https://www.researchgate.net/figure/Biparietal-Diameter-Growth-Rate-Table_tbl10_14718580 
    
 The libraries Used:
 
