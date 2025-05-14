@@ -1,6 +1,6 @@
 # Automated-Baby-Age-Estimation-in-Ultrasound-Images
 
-This basic project automates the estimation of a baby's gestational age based on ultrasound images. It processes 9 sample images through the following steps: 
+This simple project automates the estimation of a baby's gestational age based on ultrasound images. It processes 9 sample images through the following steps: 
 1. Image Preprocessing:
 
         Apply Gaussian blur and Canny edge detection to extract contours.
